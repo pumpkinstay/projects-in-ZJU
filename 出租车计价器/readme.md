@@ -1,7 +1,9 @@
 ## 电子电路系统设计与调试实践 
 
-Electronic circuit system design and debugging practice  
-data: 2018.07 (summer vacation of my 2th year)
+Course: Electronic circuit system design and debugging practice  
+data: 2018.07 (summer vacation of my 2th year)  
+
+folder contents : PCB project, C file(89S51), report    
 ___
 1. 实验任务  
 设计并制作出租车计费器
@@ -17,9 +19,9 @@ ___
   
 ___
 1. Experimental task  
-Design and manufacture taxi meter
+Design and manufacture a taximeter 
 2. Performance indicators  
-  ①　automatic meter with mileage billing, waiting time billing and starting fee 3 total customer fees, the total of the three fees unified with 4 digital tube display, the maximum amount of 99.99 yuan  
+  ①　taximeter with functions of mileage billing, waiting time billing and starting fee billing, the total fees unified with 4 digital tube display 
   ②　flag down fare: ¥8/2km, unit price: ¥1.80/km, waiting time charge:¥1.50/5 minutes.When driving, the charging value refreshed every 0.5 km; the waiting time refreshed every 1 minute; <0.5 km or <5 minutes will be ignored  
   ③　prompt tone function  
   ④　data reset function  
